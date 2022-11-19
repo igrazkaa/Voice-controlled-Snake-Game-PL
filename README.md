@@ -1,7 +1,5 @@
 # Voice-controlled-Snake-Game-PL
 
-# Voice-controlled-Snake-Game-PL
-
 
 ![](img.png)
 
